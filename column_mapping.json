@@ -6,6 +6,7 @@
     "{province}": "C",
     "{region}": "B",
     "{fraction}": "F",
+    "{qid}":"I",
     "{population}": "J",
     "{adult_population}": "L",
     "{male_adult_population}": "M",
